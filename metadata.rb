@@ -6,6 +6,6 @@ description 'Installs/Configures CppUTest'
 long_description 'Installs/Configures CppUTest'
 version '0.1.0'
 
-depends 'git', '~> 4.3'
+depends 'git', '~> 8.0.0'
 depends 'libtool', '~> 0.1.0'
 depends 'build-essential', '~> 2.2.3'
